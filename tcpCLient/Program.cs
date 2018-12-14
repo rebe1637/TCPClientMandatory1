@@ -32,12 +32,13 @@ namespace tcpCLient
 
             Console.WriteLine("Client stopped, press enter");
             string s = Console.ReadLine();
+            Console.ReadLine();
 
 
 
-            
+
         }
 
-        
+
     }
 }
