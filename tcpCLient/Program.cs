@@ -34,7 +34,7 @@ namespace tcpCLient
             string s = Console.ReadLine();
             Console.ReadLine();
 
-
+        
 
 
         }
